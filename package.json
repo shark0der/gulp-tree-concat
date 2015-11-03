@@ -2,7 +2,7 @@
   "name": "gulp-tree-concat",
   "version": "0.1.1",
   "description": "Gulp processor to merge multiple javascript files into one with hierarchy",
-  "main": "index.coffee",
+  "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/gulp mocha"
   },
